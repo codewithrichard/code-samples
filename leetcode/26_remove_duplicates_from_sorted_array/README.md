@@ -1,4 +1,4 @@
-# This is one solution to [LeetCode Problem #26 Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) 
+# [LeetCode Problem #26 Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) 
 
 # [Code](remove_duplicates_from_sorted_array.py)
 
