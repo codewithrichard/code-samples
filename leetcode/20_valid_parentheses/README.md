@@ -1,4 +1,4 @@
-# This is one solution to [LeetCode](https://leetcode.com/) Problem #20 Valid Parentheses
+# [LeetCode Problem #20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 
 
 
 # [Code](valid_parentheses.py)
