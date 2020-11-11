@@ -1,4 +1,4 @@
-# This is one solution to [LeetCode Problem #23 Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+# [LeetCode Problem #23 Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 # [Code](merge_k_sorted_lists.py)
 
