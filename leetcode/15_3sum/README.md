@@ -1,5 +1,4 @@
-# This is one solution to [LeetCode](https://leetcode.com/) Problem #15 3Sum
-
+# [LeetCode Problem #15 3Sum](https://leetcode.com/problems/3sum/)
 
 # [Code](three_sum.py)
 
