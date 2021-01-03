@@ -7,4 +7,4 @@
 
 # Video Walkthrough
 
-[![LeetCode Problem #21 Merge Two Sorted Lists](https://img.youtube.com/vi/B1vCRf-6gfM /0.jpg)](https://www.youtube.com/watch?v=B1vCRf-6gfM )
+[![LeetCode Problem #21 Merge Two Sorted Lists](https://img.youtube.com/vi/B1vCRf-6gfM/0.jpg)](https://www.youtube.com/watch?v=B1vCRf-6gfM )
